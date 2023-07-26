@@ -28,22 +28,22 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=00ff99&center=true&width=435&repeat=false&lines=%F0%9F%A4%9D+Get+in+touch!+%F0%9F%A4%9D" alt="Get in touch" />
 
-<a href="mailto:sdipedit@gmail.com"><img width="75" src="https://media4.giphy.com/media/mHzd6Y8fz1pW1JcfXR/200w.webp?cid=ecf05e47hsrlbsl1zm0w72gijhzk11tg0djsf119lcejgz2w&ep=v1_stickers_search&rid=200w.webp&ct=s" alt="brblacky on Gmail"></a>
-<a href="https://www.youtube.com/c/NinjuDev"><img width="75" src="https://raw.githubusercontent.com/brblacky/BrBlacky/main/image/youtube.gif" alt="brblacky on Youtube"></a>
-<a href="https://twitter.com/NinjuDev"><img width="75" src="https://raw.githubusercontent.com/brblacky/BrBlacky/main/image/twitter.gif" alt="brblacky on Twitter"></a>
-<a href=https://discord.com/users/743317832434974811><img width="75" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="brblacky on Discord"></a>
+<a href="mailto:ninju.run@gmail.com"><img width="75" src="https://media4.giphy.com/media/mHzd6Y8fz1pW1JcfXR/200w.webp?cid=ecf05e47hsrlbsl1zm0w72gijhzk11tg0djsf119lcejgz2w&ep=v1_stickers_search&rid=200w.webp&ct=s" alt="NinjuDev on Gmail"></a>
+<a href="https://www.youtube.com/c/NinjuDev"><img width="75" src="https://raw.githubusercontent.com/brblacky/BrBlacky/main/image/youtube.gif" alt="NinjuDev on Youtube"></a>
+<a href="https://twitter.com/NinjuDev"><img width="75" src="https://raw.githubusercontent.com/brblacky/BrBlacky/main/image/twitter.gif" alt="NinjuDev on Twitter"></a>
+<a href=https://discord.com/users/743317832434974811><img width="75" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="NinjuDev on Discord"></a>
 
 <br>
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=00ff99&center=true&width=235&repeat=false&lines=%E2%AD%90+Donate+%E2%AD%90" alt="Donate" />
 <br>
-<a href="https://paypal.me/sdip521"><img width="75" src="https://raw.githubusercontent.com/brblacky/BrBlacky/main/image/paypal.png" alt="Donate with Paypal"></a>
+<a href="https://media.discordapp.net/attachments/943040330918424576/1133798776600014848/c9fed6f6-b757-43d9-828e-9b96964cd1b1.png?width=335&height=662"><img width="75" src="https://w0.peakpx.com/wallpaper/153/253/HD-wallpaper-fampay-logo-bird-black-black-background-brand-material-orange-simple.jpg" alt="Donate with Paypal"></a>
 
 
 <details><summary><strong>🗲 Lightning 🗲</strong></summary>
 <br>
-<strong><a href="https://getalby.com/p/brblacky">sdipedit@gmail.com</a></strong> 
+<strong><a href="https://ninju.is-a.dev">Contact 📞</a></strong> 
 <br>
 </details>
 
