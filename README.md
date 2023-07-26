@@ -21,7 +21,7 @@
 </div>
 <br>
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=NinjuDev&amp;theme=xcode&amp;bg_color=161c1c&amp;point=00ff99&amp;line=caf0ff&amp;color=e4e6eb&amp;title_color=e4e6eb&amp;hide_border=true&amp;radius=16" alt="brblacky github activity graph">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=NinjuDev&amp;theme=xcode&amp;bg_color=161c1c&amp;point=00ff99&amp;line=caf0ff&amp;color=e4e6eb&amp;title_color=e4e6eb&amp;hide_border=true&amp;radius=16" alt="NinjuDev github activity graph">
 
 <br>
 <br>
