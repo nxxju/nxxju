@@ -8,7 +8,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=00ff99&center=true&width=435&repeat=false&lines=%F0%9F%93%88+Stats+for+nerds+%F0%9F%93%88" alt="Stats for nerds" />
 
-<a href="https://www.github.com/brblacky"><img src="https://komarev.com/ghpvc/?username=brblacky&style=for-the-badge&color=161c1c&label=👁+PROFILE+VIEWS" alt="brblacky github profile views" /></a>
+<a href="https://www.github.com/NinjuDev"><img src="https://komarev.com/ghpvc/?username=brblacky&style=for-the-badge&color=161c1c&label=👁+PROFILE+VIEWS" alt="NinjuDev github profile views" /></a>
 <a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logoColor=00ff99&logo=linux&color=161c1c" /></a>
 <a href="https://archlinux.org"><img src="https://img.shields.io/badge/DISTRO-Arch-56b6c2?style=for-the-badge&logo=arch-linux&logoColor=00ff99&color=161c1c" /></a>
 <a href="https://dwm.suckless.org"><img src="https://img.shields.io/badge/WM-DWM-005577?style=for-the-badge&logo=dwm&color=161c1c&logoColor=00ff99" /></a>
