@@ -38,7 +38,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=00ff99&center=true&width=235&repeat=false&lines=%E2%AD%90+Donate+%E2%AD%90" alt="Donate" />
 <br>
-<a href="https://media.discordapp.net/attachments/943040330918424576/1133798776600014848/c9fed6f6-b757-43d9-828e-9b96964cd1b1.png?width=335&height=662"><img width="75" src="https://w0.peakpx.com/wallpaper/153/253/HD-wallpaper-fampay-logo-bird-black-black-background-brand-material-orange-simple.jpg" alt="Donate with Paypal"></a>
+<a href="https://media.discordapp.net/attachments/943040330918424576/1133798776600014848/c9fed6f6-b757-43d9-828e-9b96964cd1b1.png?width=335&height=662"><img width="75" src="https://cdn-images-1.medium.com/max/1200/1*evpRkULzf2s5JYoA3bTDcw.png" alt="Donate with FamPay"></a>
 
 
 <details><summary><strong>🗲 Lightning 🗲</strong></summary>
