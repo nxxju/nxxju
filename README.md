@@ -27,22 +27,24 @@ Here is my <a href="https://discord.gg/magnimont">Discord Server</a> if you wann
 </div>
 </p>
 
-```python
-class ninju:
-    
-  def __init__(self):
-    self.name = "Ninju Iyer";
-    self.username = "nxxju";
-    self.location = "Bengaluru, India";
-    self.instagram = "@nxxju.iyer";
-    self.web = "https://ninjudev.vercel.app";
-    self.discord = "nxxju.iyer";
-  
-  def __str__(self):
-    return self.name
+```js
+class Ninju {
+  constructor() {
+    this.name = "Ninju Iyer";
+    this.username = "nxxju";
+    this.location = "Bengaluru, India";
+    this.instagram = "@nxxju.iyer";
+    this.web = "https://ninjudev.vercel.app";
+    this.discord = "nxxju.iyer";
+  }
 
-if __name__ == '__main__':
-    me = ninju()
+  toString() {
+    return this.name;
+  }
+}
+
+const me = new Ninju();
+console.log(me.toString());
 ```
 
 
