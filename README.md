@@ -20,6 +20,7 @@ Here is my <a href="https://discord.gg/magnimont">Discord Server</a> if you wann
   <img src="https://img.shields.io/badge/-Node.js-nodedotjs?style=for-the-badge&logo=nodedotjs&logoColor=98b982&labelColor=282828">
   <img src="https://img.shields.io/badge/-Raspberry Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=98b982&labelColor=282828">
   <img src="https://img.shields.io/badge/-Javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=98b982&labelColor=282828">
+  <img src="https://img.shields.io/badge/-MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=98b982&labelColor=282828">
 </div>
 </p>
 
