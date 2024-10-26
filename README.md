@@ -7,8 +7,9 @@
        </a>
     </p>
 
-Hello there! I'm nxxju (AKA Ninju), i was born in 2009 and i'm currently schooling!
-Here is my <a href="https://discord.gg/magnimont">Discord Server</a> if you wanna join and <a href="https://ninjudev.vercel.app">here is my website</a> :)
+I'm just your average Joe with a dabbling of coding knowledge and absolutely zero experience in stock trading. When I'm not scrolling through stupid reels on Instagram, I like to pretend to work on projects, hang out with people who barely tolerate me, manage discord servers, go on adventures (to the terrace and a gaming cafe), and daydream about new ideas that I will likely never act on because of laziness. Despite my general cluelessness.
+
+So if you're looking for someone who is mediocre at everything and has a knack for making bad jokes, I'm your guy
 
 <br>
 
