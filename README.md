@@ -70,3 +70,7 @@ if __name__ == '__main__':
   </a>
 </p>
 <br>
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=nxxju&icon=6&color=6)](https://visitcount.itsvg.in)
