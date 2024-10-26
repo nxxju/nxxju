@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-I'm Appu , a passionate self-taught developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+I'm Ninju , a passionate self-taught developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 - 🔭 I’m currently working on my personal projects
 - 🌱 I’m fluent with Node.js, Python
