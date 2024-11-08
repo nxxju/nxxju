@@ -66,7 +66,7 @@ console.log(me.toString());
 
 <br/>
 <p align="left">
-  <a href="https://dag.killyourself.lol/">
+  <a href="https://ninjudev.vercel.app/">
   <img width="46.9%" src="https://github-readme-stats.vercel.app/api?username=nxxju&show_icons=true&theme=tokyonight" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=nxxju&theme=tokyonight" />
   </a>
