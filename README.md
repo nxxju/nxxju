@@ -11,7 +11,7 @@ I'm just your average Joe with a dabbling of coding knowledge and absolutely zer
 
 So if you're looking for someone who is mediocre at everything and has a knack for making bad jokes, I'm your guy
 
-Here is my <a href="https://discord.gg/magnimont">Discord Server</a> if you wanna join and <a href="https://ninjudev.vercel.app">here is my website</a> :)
+Here is my <a href="https://discord.gg/magnimont">Discord Server</a> if you wanna join and <a href="https://ninju.is-a.dev">here is my website</a> :)
 
 <br>
 
@@ -34,7 +34,7 @@ class Ninju {
     this.username = "nxxju";
     this.location = "Bengaluru, India";
     this.instagram = "@nxxju.iyer";
-    this.web = "https://ninjudev.vercel.app";
+    this.web = "https://ninju.is-a.dev";
     this.discord = "nxxju.iyer";
   }
 
@@ -49,7 +49,7 @@ console.log(me.toString());
 
 
 <div align="center">
-  <a href="https://ninjudev.vercel.app">
+  <a href="https://ninju.is-a.dev">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div>
@@ -66,7 +66,7 @@ console.log(me.toString());
 
 <br/>
 <p align="left">
-  <a href="https://ninjudev.vercel.app/">
+  <a href="https://ninju.is-a.dev/">
   <img width="46.9%" src="https://github-readme-stats.vercel.app/api?username=nxxju&show_icons=true&theme=tokyonight" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=nxxju&theme=tokyonight" />
   </a>
