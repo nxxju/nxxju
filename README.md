@@ -48,11 +48,6 @@ console.log(me.toString());
 ```
 
 
-<div align="center">
-  <a href="https://ninju.is-a.dev">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
 
 <!--
 <div align="center">
