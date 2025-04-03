@@ -68,7 +68,7 @@ console.log(me.toString());
 <p align="left">
   <a href="https://ninju.is-a.dev/">
   <img width="46.9%" src="https://github-readme-stats.vercel.app/api?username=nxxju&show_icons=true&theme=tokyonight" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=nxxju&theme=tokyonight" />
+    <img width="49.9%" src="https://github-readme-streak-stats.herokuapp.com/?user=nxxju&theme=tokyonight" />
   </a>
 </p>
 <br>
